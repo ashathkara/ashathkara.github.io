@@ -1,206 +1,124 @@
 {
     "songs": [
 {
-            "name": "Around the World",
-            "artist": "Dft Pun",
-            "year": "2018"
+            "name": "Around the World"
         },
 {
-            "name": "As Long as You Love Me",
-            "artist": "BS Boys",
-            "year": "2018"
+            "name": "As Long as You Love Me"
         },
 {
-            "name": "Angels",
-            "artist": "Robi Wiliam",
-            "year": "2018"
+            "name": "Angels"
         },
 {
-            "name": "You Should Be Mine",
-            "artist": "Bran MKight",
-            "year": "1997"
+            "name": "You Should Be Mine"
         },
 {
-            "name": "Something About the Way You Look Tonight",
-            "artist": "Eton Jhn",
-            "year": "1997"
+            "name": "Something About the Way You Look Tonight"
         },
 {
-            "name": "I Love You, I Love You",
-            "artist": "Azar",
-            "year": "1997"
+            "name": "I Love You, I Love You"
         },
 {
-            "name": "Mushkil Bada Yeh Pyaar Hai",
-            "artist": "Gpt",
-            "year": "1997"
+            "name": "Mushkil Bada Yeh Pyaar Hai"
         },
 {
-            "name": "Yeh Dil Deewana",
-            "artist": "Pardsh",
-            "year": "1997"
+            "name": "Yeh Dil Deewana"
         },
 {
-            "name": "Oonchi Hai Building",
-            "artist": "Judwa",
-            "year": "1997"
+            "name": "Oonchi Hai Building"
         },	  
 {
-            "name": "Bholi Si Surat",
-            "artist": "DTPH",
-            "year": "1997"
+            "name": "Bholi Si Surat"
         }, 
 {
-            "name": "Gods Plan",
-            "artist": "Drake",
-            "year": "2018"
+            "name": "Gods Plan"
         },
 	   {
-            "name": "Be Careful",
-            "artist": "Cardi B",
-            "year": "2018"
+            "name": "Be Careful"
         },
 	   {
-            "name": "Look Alive",
-            "artist": "BlocBoy JB feat. Drake ",
-            "year": "2018"
+            "name": "Look Alive"
         },
 	   {
-            "name": "Apna Time Aayega",
-            "artist": "Gully Boy ",
-            "year": "2018"
+            "name": "Apna Time Aayega"
         },
 	   {
-            "name": "O SAKI SAKI",
-            "artist": "Batla House",
-            "year": "2018"
+            "name": "O SAKI SAKI"
         },
 	   {
-            "name": "Khalibali",
-            "artist": "Padmaavat",
-            "year": "2018"
+            "name": "Khalibali"
         },
 	   {
-            "name": "Dhadak Title Track",
-            "artist": "Dhadak",
-            "year": "2018"
+            "name": "Dhadak Title Track"
         },
         {
-            "name": "Bom Diggy",
-            "artist": "Zack Knight",
-            "year": "2018"
+            "name": "Bom Diggy"
         },
         {
-            "name": "In My Feelings",
-            "artist": "Drake",
-            "year": "2018"
+            "name": "In My Feelings"
         },
         {
-            "name": "No Tears Left to Cry",  
-            "artist": "Ariana Grande",
-            "year": "2018"
+            "name": "No Tears Left to Cry"
         },
 	   {
-            "name": "Rockstar", 
-            "artist": "Post Malone",
-            "year": "2018"
+            "name": "Rockstar"
         },{
-            "name": "Shallow", 
-            "artist": "Lad Gag",
-            "year": "2018"
+            "name": "Shallow"
         },{
-            "name": "Perfect",
-            "artist": "Sheern",
-            "year": "2017"
+            "name": "Perfect"
         },{
-		    "name": "Love Yourself",
-            "artist": "Justn",
-            "year": "2015"
+	    "name": "Love Yourself"
         },
 		{
-		    "name": "Sugar",
-            "artist": "Maron",
-            "year": "2014"
+		    "name": "Sugar"           
         },
 		{
-		    "name": "Wake Me Up",
-            "artist": "Avic",
-            "year": "2013"
+		    "name": "Wake Me Up"
         },
 		{
-		    "name": "Bili Jn",
-            "artist": "Michl",
-            "year": "1982"
+		    "name": "Bili Jn"
         },
 		{
-		    "name": "Mere Humsafar",
-            "artist": "QSQT",
-            "year": "1988"
+		    "name": "Mere Humsafar"
         },
 		{
-		    "name": "Tere Bin",
-            "artist": "Simb",
-            "year": "2018"
+		    "name": "Tere Bin"
         },
 		{
-		    "name": "Sun Raha He",
-            "artist": "Ashqi",
-            "year": "2011"
+		    "name": "Sun Raha He"
         },
 		{
-		    "name": "Rabta",
-            "artist": "Agnt Vnd",
-            "year": "2013"
+		    "name": "Rabta"
         },
 		{
-		    "name": "Dil He Dil",
-            "artist": "MKS",
-            "year": "1978"
+		    "name": "Dil He Dil"
         },
 		{
-		    "name": "Utwn",
-            "artist": "Mrk",
-            "year": "2014"
+		    "name": "Utwn"
         },
 		{
-		    "name": "Good For You",
-            "artist": "Sln Gm",
-            "year": "2015"
+		    "name": "Good For You"
         },
 		{
-		    "name": "Sl Dn",
-            "artist": "Sln Gm",
-            "year": "2013"
+		    "name": "Sl Dn"
         },
 		{
-		    "name": "Wh Sys",
-            "artist": "Sln Gm",
-            "year": "2011"
+		    "name": "Wh Sys"
         },
 		{
-		    "name": "Evertime",
-            "artist": "Brtn Sprs",
-            "year": "2003"
+		    "name": "Evertime"
         },
 		{
-		    "name": "Lucky",
-            "artist": "Brtn Sprs",
-            "year": "2001"
+		    "name": "Lucky"
         },
 		{
-		    "name": "Tmh kya Samjte He",
-            "artist": "KS",
-            "year": "1994"
+		    "name": "Tmh kya Samjte He"
         },
 		{
-		    "name": "Yeh Mera Dil",
-            "artist": "AB",
-            "year": "1998"
+		    "name": "Yeh Mera Dil"
         },
 		{
-		    "name": "Teri Or",
-            "artist": "SIK",
-            "year": "2008"
+		    "name": "Teri Or"
         }
   ]
 }
